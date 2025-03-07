@@ -82,9 +82,59 @@ Monitors progress:
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 Creating a Gantt chart provides a total overview of the project from start to finish, the members involved in each step, and all the tasks required to complete the project. Once your project's Gantt chart is complete, you now have a grip on the project. You can see it and visualize the steps to completion.
 
+Benefits of Gantt Charts
+- Allows Better Tracking. ...
+- Provides High-Level Overview. ...
+- Boosts Productivity. ...
+- Illustrates Overlaps and Dependencies. ...
+- Manage Complex Information. ...
+- Balance Multiple Projects. ...
+- Set Realistic Deadlines and Expectations. ...
+- Motivates Team Members.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+Our software primarily focuses on addressing the issue of inefficient data analysis and visualization for complex datasets, which is a significant problem for our target audience of data scientists, researchers, and business analysts because it often leads to delays in decision-making, inaccurate insights, and frustration due to the time-consuming nature of manual data manipulation and visualization processes.
+
+Key issues our software tackles
+Complex data integration:
+- Difficulty in combining data from multiple sources with different formats, leading to data cleaning and preparation bottlenecks.
+Time-consuming analysis:
+- Spending excessive hours on data cleaning, transformation, and visualization, hindering the ability to quickly explore and interpret insights.
+Lack of intuitive visualization tools:
+- Difficulty in creating clear and meaningful visualizations from complex data, potentially leading to misinterpretation of results.
+Technical barriers to entry:
+- Requirement of advanced coding skills to perform sophisticated data analysis, limiting access for non-technical users.
+  
+These issues are significant to our target audience because:
+- Increased productivity:
+By automating data processing and providing user-friendly visualization tools, our software allows users to spend more time on analysis and interpretation, leading to faster insights and decision-making.
+- Improved accuracy:
+Automated data cleaning and advanced analysis algorithms can help reduce errors and ensure the reliability of findings.
+- Broader accessibility:
+Intuitive design and user-friendly interface enable a wider range of users to leverage data analysis capabilities, even without extensive coding knowledge.
+- Enhanced collaboration:
+Sharing interactive visualizations with stakeholders facilitates better communication and understanding of complex data patterns.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+A problem statement clearly defines – in a concise but comprehensive way – a key business problem that needs to be solved. It enhances understanding, guides the search for solutions, and improves communication among all parties involved. Answer derived from Quora.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+By keeping an eye out for issues, addressing feedback promptly, and keeping your tech debt in check, you can increase development speed while still keeping quality standards high.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Software functionality is the ability of a program to perform tasks and solve problems for users. It's made up of features that work together to help users achieve their goals. 
+
+Features that make software stand out
+- Functionality: The ability of software to perform specific tasks and solve problems.
+- Reliability: The ability of software to perform a function without errors for a defined period of time. 
+- Scalability: The ability of software to increase or decrease performance in response to processing demands.
+- Security: The ability of software to protect users and their data.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+The global business software and services market size was estimated at USD 584.03 billion in 2024 and is projected to grow at a CAGR of 12.1% from 2025 to 2030. The market growth is driven by the increasing demand for automation in business processes.
+
+Quick formula: Total potential customers x Average revenue per customer = Market size.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding these trends enables companies to anticipate market shifts, adapt their strategies, and stay ahead of the competition. By analyzing and responding to market trends, businesses can make informed decisions, identify growth opportunities, and mitigate risks effectively.
